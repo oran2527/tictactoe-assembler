@@ -50,8 +50,4 @@ mov rsi, game_start_message --- > Put the message "game_start_mesage"
 
 ![image 3](img/asm3.png)
 
-![image 4](img/asm4.png)
-
-![image 5](img/asm5.png)
-
 ![image 6](img/asm6.png)
