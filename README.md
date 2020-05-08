@@ -4,6 +4,16 @@
 
 Assembler
 
+## HOW TO RUN 
+
+1. In the shell inside the folder with the tictactoe.asm file, type : nasm -f elf64 tictactoe.asm
+
+2. In the same shell, type ld -o tictactoe tictactoe.o
+
+3. In the same shell, type ./tictactoe
+
+4. Start to play
+
 ## ALGORITHM
 
 A board with 9 positions and the first player will mark a "X" and the second player marks and "O". The players don't play an occupied position. 
