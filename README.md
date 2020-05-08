@@ -44,14 +44,14 @@ mov rsi, game_start_message --- > Put the message "game_start_mesage"
 
 ## SCREENSHOT
 
-![image 1](https://github.com/oran2527/tictactoe-assembler/img/asm1.JPG)
+![image 1](https://github.com/oran2527/tictactoe-assembler/img/asm1.png)
 
-![image 2](https://github.com/oran2527/tictactoe-assembler/img/asm2.JPG)
+![image 2](https://github.com/oran2527/tictactoe-assembler/img/asm2.png)
 
-![image 3](https://github.com/oran2527/tictactoe-assembler/img/asm3.JPG)
+![image 3](https://github.com/oran2527/tictactoe-assembler/img/asm3.png)
 
-![image 4](https://github.com/oran2527/tictactoe-assembler/img/asm4.JPG)
+![image 4](https://github.com/oran2527/tictactoe-assembler/img/asm4.png)
 
-![image 5](https://github.com/oran2527/tictactoe-assembler/img/asm5.JPG)
+![image 5](https://github.com/oran2527/tictactoe-assembler/img/asm5.png)
 
-![image 6](https://github.com/oran2527/tictactoe-assembler/img/asm6.jgp)
+![image 6](https://github.com/oran2527/tictactoe-assembler/img/asm6.png)
